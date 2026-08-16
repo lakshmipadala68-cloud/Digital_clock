@@ -21,10 +21,8 @@ A simple and responsive digital clock built using HTML, CSS, and JavaScript. The
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
-## Project Structure
 
 ```
-
 ```
 
 ## Live Demo
@@ -32,8 +30,7 @@ A simple and responsive digital clock built using HTML, CSS, and JavaScript. The
 Add your live website link here.
 
 ## GitHub
-
-Add your GitHub repository link here.
+https://github.com/lakshmipadala68-cloud/Digital_clock.git
 
 ## Author
 
